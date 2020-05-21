@@ -1,1 +1,0 @@
-# Read-salary-and-print-bonus-using-scan-f-in-C.
